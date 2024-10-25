@@ -1,20 +1,16 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=aross2010&color=brightgreen" alt="watching_count" />
- </p>
+## Alex Ross
 
+Thanks for visiting my GitHub profile! To make things short, I'm currently:
 
+- 🎓 Pursuing a B.S. in Software Engineering at San Jose State University (expected Fall 2025)
+- 🌱 Building software with [Cinefind](https://cinefind.app), an automated online platform that connects audiences to local movie screenings and events!
+- 🚀 Seeking internship opportunities for Summer 2025.
+  
+### 🌐 Connect with Me
 
-<!--
-**aross2010/aross2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [LinkedIn](https://www.linkedin.com/in/alex-ross-32b278236/)
 
-Here are some ideas to get you started:
+### 💡 Learn more about me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [My Personal Website](https://www.aross.app)
+
